@@ -38,6 +38,31 @@
     animation: clouds-animation 15s infinite linear;
 }
 
+.btreset {
+    position: relative;
+    color: white;
+    background-color: red;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0rem;
+    margin: 5rem;
+    width: 150px;
+    height: 50px;
+    border-radius: 20rem;
+}
+.myBtn {
+    position: relative;
+    color: white;
+    background-color: green;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 0rem;
+    margin: 5rem;
+    width: 150px;
+    height: 50px;
+    border-radius: 20rem;
+}
+
 @keyframes pipe-animation {
     from {
         right: -80px;
