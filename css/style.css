@@ -50,7 +50,7 @@
     height: 50px;
     border-radius: 20rem;
 }
-.myBtn {
+#myBtn {
     position: relative;
     color: white;
     background-color: green;
@@ -100,3 +100,4 @@
         right: 100%;
     }
 }
+

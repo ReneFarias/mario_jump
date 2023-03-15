@@ -38,3 +38,7 @@ const loop = setInterval(() => {
 }, 10);
 
 document.addEventListener('keydown', jump);
+
+const botao = document.getElementById("myBtn")
+
+botao.addEventListener("click", jump)
